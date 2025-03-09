@@ -42,7 +42,7 @@ SignUp Page
 ![Screenshot 2025-03-09 123257](https://github.com/user-attachments/assets/e6789f23-d8b2-497c-b70b-1ac0788dc92f)
 
 SignIn Page
-![Screenshot 2025-03-09 123257](https://github.com/user-attachments/assets/732d34a4-39a1-405a-b23d-7c80c4ca2dca)
+![Screenshot 2025-03-09 123936](https://github.com/user-attachments/assets/b347089b-4562-4ad1-a365-974198a84953)
 
 dashboard Page
 ![Screenshot 2025-03-09 123714](https://github.com/user-attachments/assets/215ed8af-5f98-4fec-986a-b7a080a20a25)
